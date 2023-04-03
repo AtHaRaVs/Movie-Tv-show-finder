@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+h3 {
+    margin-top: 2rem;
+    font-family: 'Mukta', sans-serif;
+    letter-spacing: 2px;
+}
+img {
+    padding: 1rem;
+}
